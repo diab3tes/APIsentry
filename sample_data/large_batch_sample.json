@@ -1,0 +1,152 @@
+[
+  {
+    "api_name": "auth-service",
+    "response_time_ms": 120,
+    "status_code": 200,
+    "records_returned": 1
+  },
+  {
+    "api_name": "payments-api",
+    "response_time_ms": 4200,
+    "status_code": 200,
+    "records_returned": 12
+  },
+  {
+    "api_name": "payments-api",
+    "response_time_ms": 95,
+    "status_code": 500,
+    "records_returned": 0
+  },
+  {
+    "api_name": "user-profile",
+    "response_time_ms": 210,
+    "status_code": 200,
+    "records_returned": 1
+  },
+  {
+    "api_name": "search-api",
+    "response_time_ms": 340,
+    "status_code": 200,
+    "records_returned": 0
+  },
+  {
+    "api_name": "inventory-api",
+    "response_time_ms": 5800,
+    "status_code": 503,
+    "records_returned": 0
+  },
+  {
+    "api_name": "orders-api",
+    "response_time_ms": 180,
+    "status_code": 200,
+    "records_returned": 42
+  },
+  {
+    "api_name": "notifications",
+    "response_time_ms": 3100,
+    "status_code": 200,
+    "records_returned": 5
+  },
+  {
+    "api_name": "catalog-api",
+    "response_time_ms": 150,
+    "status_code": 200,
+    "records_returned": 230
+  },
+  {
+    "api_name": "auth-service",
+    "response_time_ms": 90,
+    "status_code": 401,
+    "records_returned": 0
+  },
+  {
+    "api_name": "recommendations",
+    "response_time_ms": 7400,
+    "status_code": 200,
+    "records_returned": 0
+  },
+  {
+    "api_name": "shipping-api",
+    "response_time_ms": 260,
+    "status_code": 200,
+    "records_returned": 8
+  },
+  {
+    "api_name": "billing-api",
+    "response_time_ms": 130,
+    "status_code": 502,
+    "records_returned": 0
+  },
+  {
+    "api_name": "search-api",
+    "response_time_ms": 410,
+    "status_code": 200,
+    "records_returned": 17
+  },
+  {
+    "api_name": "user-profile",
+    "response_time_ms": 75,
+    "status_code": 404,
+    "records_returned": 0
+  },
+  {
+    "api_name": "analytics-api",
+    "response_time_ms": 3600,
+    "status_code": 200,
+    "records_returned": 300
+  },
+  {
+    "api_name": "orders-api",
+    "response_time_ms": 9100,
+    "status_code": 504,
+    "records_returned": 0
+  },
+  {
+    "api_name": "catalog-api",
+    "response_time_ms": 110,
+    "status_code": 200,
+    "records_returned": 0
+  },
+  {
+    "api_name": "gateway",
+    "response_time_ms": 60,
+    "status_code": 200,
+    "records_returned": 1
+  },
+  {
+    "api_name": "inventory-api",
+    "response_time_ms": 220,
+    "status_code": 200,
+    "records_returned": 64
+  },
+  {
+    "api_name": "payments-api",
+    "response_time_ms": 170,
+    "status_code": 200,
+    "records_returned": 3
+  },
+  {
+    "api_name": "notifications",
+    "response_time_ms": 85,
+    "status_code": 200,
+    "records_returned": 2
+  },
+  {
+    "api_name": "billing-api",
+    "response_time_ms": 3900,
+    "status_code": 200,
+    "records_returned": 15
+  },
+  {
+    "api_name": "shipping-api",
+    "response_time_ms": 140,
+    "status_code": 429,
+    "records_returned": 0
+  },
+  {
+    "api_name": "gateway",
+    "response_time_ms": 55,
+    "status_code": 200,
+    "records_returned": 1
+  }
+]

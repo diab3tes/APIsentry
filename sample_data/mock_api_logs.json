@@ -1,0 +1,38 @@
+[
+  {
+    "api_name": "auth-service",
+    "response_time_ms": 120,
+    "status_code": 200,
+    "records_returned": 1
+  },
+  {
+    "api_name": "payments-api",
+    "response_time_ms": 4200,
+    "status_code": 200,
+    "records_returned": 12
+  },
+  {
+    "api_name": "payments-api",
+    "response_time_ms": 95,
+    "status_code": 500,
+    "records_returned": 0
+  },
+  {
+    "api_name": "user-profile",
+    "response_time_ms": 210,
+    "status_code": 200,
+    "records_returned": 1
+  },
+  {
+    "api_name": "search-api",
+    "response_time_ms": 340,
+    "status_code": 200,
+    "records_returned": 0
+  },
+  {
+    "api_name": "inventory-api",
+    "response_time_ms": 5800,
+    "status_code": 503,
+    "records_returned": 0
+  }
+]
